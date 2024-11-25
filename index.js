@@ -86,7 +86,7 @@ console.log('FAMILY-MD-V1 Bot Connected to WhatsApp Succesful 🧬✅')
 
 let up = `FAMILY-MD-V1 Connected Successful 🤖✅\n\nPREFIX: ${prefix}\n\n Main CMD: .menu/.allmenu\n\n Bot Main Owner : Dilisha Gimshan💞\n\n *🧬Don't Forget To Subscibe My YouTube Channel*\n www.youtube.com/@A2Z\n\nThanks For Usings □FAMILY-MD-V1■❤️\n\n\n> *© 𝙿𝚘𝚠𝚎𝚛𝚍 𝙱𝚢 🧚‍♂️⃝Dilisha 💕⃟* `;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/F8DfWKM/cjfff-1.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `telegra.ph/file/67df6124e5ea42d98946f.jpg` }, caption: up })
 
 }
 })
